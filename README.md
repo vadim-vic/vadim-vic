@@ -3,26 +3,28 @@ This repo keeps projects on Machice Learning: open reports and code snippets to 
 
 
 ## Contents ##
-
-IMU-motion-analysis Private
-Visualisation of human motions using Singular Spectrum Analysis
-
+1. [The Art of Scientific Research (course homework template)](https://github.com/vadim-vic/the-Art-homework)
 2. [RFID Signal Separation](https://github.com/vadim-vic/Signal-separation#Readme.md)
+3. [Interpretable Symbolic Regression Model Generator](https://github.com/vadim-vic/Symbolic-regression#Readme.md)
+4. [Genetic Feature Selection](https://github.com/vadim-vic/Genetic_Feature_Selection)
+5. [Classification of EEG event-related potentials](https://github.com/vadim-vic/EEG-ERP-precog)
+6. [EEG-IMU time series for behavioral analysis (report)](https://github.com/vadim-vic/EEG-IMU)
+7. [Human motion analysis](https://github.com/vadim-vic/IMU-motion-analysis) **in progress**
+
+[List of repositories](https://github.com/vadim-vic?tab=repositories)
 
 ## 🔧 Technologies & Tools
 - Python, MATLAB, Mathematica, LaTeX
 - scikit-learn, SciPy, JAX, PyTorch, TensorFlow
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+<!--## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)-->
 
 ## 🧠 Fun Fact
 The cat on the photo is Tom.
 
 <!--
  Jupyter Notebook Updated 3 weeks ago
-Symbolic-regression Public
-Multivariate interpretable symbolic regression models generator
  MATLAB Updated on Mar 14
 pub Public
 Publications and drafts
