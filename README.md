@@ -1,6 +1,5 @@
-## Hi there 👋, it is Vadim
-This repo keeps projects on Machice Learning: open reports and code snippets to collaborate. The specislization is Time Series Analysis, Modeling, and Model Selection.
-
+## Hi there 👋
+This page keeps projects on Machine Learning: open reports and code snippets to collaborate. The specialization is Time Series Analysis, Model Selection, and Mathematical Modeling.
 
 ## Contents ##
 1. [The Art of Scientific Research (course homework template)](https://github.com/vadim-vic/the-Art-homework)
