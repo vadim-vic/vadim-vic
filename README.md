@@ -2,13 +2,22 @@
 This repo keeps projects on Machice Learning: open reports and code snippets to collaborate. The specislization is Time Series Analysis, Modeling, and Model Selection.
 
 
-### Contents ###
+## Contents ##
 
 IMU-motion-analysis Private
 Visualisation of human motions using Singular Spectrum Analysis
 
-2. [RFID Signal Separation](../Signal-separation#Readme.md)
+2. [RFID Signal Separation](https://github.com/vadim-vic/Signal-separation#Readme.md)
 
+## 🔧 Technologies & Tools
+- Python, MATLAB, Mathematica, LaTeX
+- scikit-learn, SciPy, JAX, PyTorch, TensorFlow
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
+
+## 🧠 Fun Fact
+The cat on the photo is Tom.
 
 <!--
  Jupyter Notebook Updated 3 weeks ago
@@ -51,7 +60,6 @@ Implementation of https://srush.github.io/annotated-s4
 HTNet_generalized_decoding Public
 Forked from BruntonUWBio/HTNet_generalized_decoding
 ECoG/EEG neural network decoder that can generalize to unseen participants and recording modalities. Replicates our published results: https://doi.org/10.1088/1741-2552/abda0b.
-**The cat on the photo is Tom.**
 -->
 
 <!--
