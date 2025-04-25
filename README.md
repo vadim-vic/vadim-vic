@@ -7,9 +7,8 @@ This repo keeps projects on Machice Learning: open reports and code snippets to 
 IMU-motion-analysis Private
 Visualisation of human motions using Singular Spectrum Analysis
 
-2. [Run the demo of the I/Q data signal separation](/Signal-separation#Readme.md)
+2. [RFID Signal Separation](../Signal-separation#Readme.md)
 
-[RFID Signal Separation]()
 
 <!--
  Jupyter Notebook Updated 3 weeks ago
