@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 This page keeps projects on Machine Learning: open reports and code snippets to collaborate. The specialization is Time Series Analysis, Model Selection, and Mathematical Modeling.
 
 ## Contents ##
@@ -10,7 +10,7 @@ This page keeps projects on Machine Learning: open reports and code snippets to 
 6. [EEG-IMU time series for behavioral analysis (report)](https://github.com/vadim-vic/EEG-IMU)
 7. [Human motion analysis](https://github.com/vadim-vic/IMU-motion-analysis) **in progress**
 
-[List of repositories](https://github.com/vadim-vic?tab=repositories)
+<!-- [List of repositories](https://github.com/vadim-vic?tab=repositories)-->
 
 ## 🔧 Technologies & Tools
 - Python, MATLAB, Mathematica, LaTeX
