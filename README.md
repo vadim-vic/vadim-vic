@@ -1,17 +1,17 @@
-## 👋
+## Vadim-vic
 This page keeps projects on Machine Learning: open reports and code snippets to collaborate. The specialization is Time Series Analysis, Model Selection, and Mathematical Modeling.
 
 ## Contents ##
-1. [The Art of Scientific Research (course homework template)](https://github.com/vadim-vic/the-Art-homework)
-2. [RFID Signal Separation](https://github.com/vadim-vic/Signal-separation#Readme.md)
-3. [Interpretable Symbolic Regression Model Generator](https://github.com/vadim-vic/Symbolic-regression#Readme.md)
-4. [Genetic Feature Selection](https://github.com/vadim-vic/Genetic_Feature_Selection)
-5. [Classification of EEG event-related potentials](https://github.com/vadim-vic/EEG-ERP-precog)
-6. [EEG-IMU time series for behavioral analysis (report)](https://github.com/vadim-vic/EEG-IMU)
-7. [Human motion analysis](https://github.com/vadim-vic/IMU-motion-analysis) **in progress**
+1. [Foundation models for spatial time series](https://github.com/vadim-vic/foundation-ts)
+2. [The Art of Scientific Research (course homework template)](https://github.com/vadim-vic/the-Art-homework)
+3. [RFID Signal Separation](https://github.com/vadim-vic/Signal-separation#Readme.md)
+4. [Interpretable Symbolic Regression Model Generator](https://github.com/vadim-vic/Symbolic-regression#Readme.md)
+5. [Genetic Feature Selection](https://github.com/vadim-vic/Genetic_Feature_Selection)
+6. [Classification of EEG event-related potentials](https://github.com/vadim-vic/EEG-ERP-precog)
+7. [EEG-IMU time series for behavioral analysis (report)](https://github.com/vadim-vic/EEG-IMU)
+8. [Human motion analysis](https://github.com/vadim-vic/IMU-motion-analysis) **in progress**
 
 <!-- [List of repositories](https://github.com/vadim-vic?tab=repositories)-->
-
 ## 🔧 Technologies & Tools
 - Python, MATLAB, Mathematica, LaTeX
 - scikit-learn, SciPy, JAX, PyTorch, TensorFlow
