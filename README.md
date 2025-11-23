@@ -20,7 +20,7 @@ This page keeps projects on Machine Learning: open reports and code snippets to 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)-->
 
 ## 🧠 Fun Fact
-The cat on the photo is Tom.
+The cat in the photo is Tom.
 
 <!--
  Jupyter Notebook Updated 3 weeks ago
