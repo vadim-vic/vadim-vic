@@ -13,7 +13,7 @@ This page keeps projects on Machine Learning: open reports and code snippets to 
 
 <!-- [List of repositories](https://github.com/vadim-vic?tab=repositories)-->
 ## 🔧 Technologies & Tools
-- Python, MATLAB, Mathematica, LaTeX
+- Python, MATLAB, Mathematica, Swift, LaTeX
 - scikit-learn, SciPy, JAX, PyTorch, TensorFlow
 
 <!--## 📈 GitHub Stats
