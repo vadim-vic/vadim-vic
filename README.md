@@ -2,7 +2,7 @@
 This page keeps projects on Machine Learning: open reports and code snippets to collaborate. The specialization is Time Series Analysis, Model Selection, and Mathematical Modeling.
 
 ## Contents ##
-1. [Causal inference for text data](https://vadim-vic.github.io/Causal-Inference/) **in progress**
+1. [Causal inference for text data](https://vadim-vic.github.com/Causal-Inference/) **in progress**
 1. [Foundation models for spatial time series](https://github.com/vadim-vic/foundation-ts), [.io](https://vadim-vic.github.io/Foundation-ts/) **slow**
 2. [The Art of Scientific Research (course homework template)](https://github.com/vadim-vic/the-Art-homework)
 3. [RFID Signal Separation](https://github.com/vadim-vic/Signal-separation#Readme.md)
